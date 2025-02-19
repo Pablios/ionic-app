@@ -52,20 +52,21 @@ A aplicação deve consumir a API pública **FakeStoreAPI** para operações de 
 ---
 
 
-### **Layout de Exemplo para Desenvolvimento**  
+### **Layouts de Exemplos para Desenvolvimento**  
 Este layout serve como uma referência inicial para o desenvolvimento. Ele não inclui todos os requisitos necessários, mas pode ser útil para começar a estrutura do projeto. Algumas informações extras estão presentes, mas o foco principal é fornecer um ponto de partida.
 
 ### **Acesso ao Layout**  
 
 Você pode visualizar o layout de exemplo através do link abaixo:
 
-[Layout de Exemplo no Figma](https://www.figma.com/proto/S2QZ2j4rzRuIavKWri61J4/Layout?node-id=1-9386&p=f&t=FsqwzMkGbdVTRuS9-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[Layout de Exemplo no Figma 1](https://www.figma.com/community/file/1363381610478131725)
+[Layout de Exemplo no Figma 2](https://www.figma.com/community/file/1272558155728731575)
 
 ## Instruções
 
-1️⃣ Acesse o layout no Figma.
-2️⃣ Use-o como guia para começar a implementação da interface.
-3️⃣ Lembre-se de que o layout contém elementos extras e pode não estar 100% alinhado com as necessidades finais do projeto. Certifique-se de adaptar conforme necessário.
+1️⃣ Acesse o layout no Figma.  
+2️⃣ Use-o como guia para começar a implementação da interface.  
+3️⃣ Lembre-se de que o layout contém elementos extras e pode não estar 100% alinhado com as necessidades finais do projeto. Certifique-se de adaptar conforme necessário.  
 
 ---
 
