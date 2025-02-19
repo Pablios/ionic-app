@@ -8,7 +8,7 @@ Criar um **Catálogo de Produtos** utilizando **Ionic + Angular + Capacitor** no
 ## 🎯 Requisitos  
 
 ### **1️⃣ Frontend (Ionic + Angular + Capacitor + Firebase)**  
-✅ **Tela de Login** (usuário/senha fixos no frontend).  
+✅ **Filtragem de Produtos** (Buscar produtos e ordernar).
 ✅ **Tela de Listagem de Produtos** (nome, descrição, preço e imagem).  
 ✅ **Tela de Cadastro/Edição de Produto** (formulário para adicionar e editar produtos).  
 ✅ **PWA** (Progressive Web App).  
